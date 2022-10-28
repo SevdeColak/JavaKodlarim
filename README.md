@@ -1,1 +1,2 @@
 # calismalar
+www.patika/dev
