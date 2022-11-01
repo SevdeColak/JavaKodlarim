@@ -1,2 +1,2 @@
-# calismalar
+# java-calismalar
 www.patika.dev
