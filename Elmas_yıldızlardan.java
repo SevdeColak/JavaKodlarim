@@ -1,4 +1,4 @@
-/*Yıldızlardan elmasyapmak.*/
+/*Yıldızlardan elmas yapmak.*/
 /*
    *
   ***
